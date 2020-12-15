@@ -1,2 +1,2 @@
 # MonteCarloSimMod
-Run MonteCarloSimMod.py to simulate the chance of who has the highest chance of winning in the soccer pool
+Run MonteCarloSimMod.py to simulate who has the highest chance of winning in the soccer pool
