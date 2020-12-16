@@ -80,7 +80,7 @@ def simulation(ran_str, run_times, df):
     :param df: a pandas df with as index the teams and as columns the possible placements
     :return: a pandas df with for each team the chance in percentage of what placement they get
     """
-    if (run_times * 40) > len(ran_str):
+    if (run_times * 40) >= len(ran_str):
         print("You need to create a larger random number. Try a larger seed or increase the repetition value")
         return None
 
